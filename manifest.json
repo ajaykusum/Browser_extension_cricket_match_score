@@ -1,0 +1,11 @@
+{
+    "name": "Browser Extension",
+    "version": "1.0.0",
+    "description": "shows the live score of cricket match",
+    "manifest_version": 3,
+    "author": "Ajay Kusum",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Chrome Extension"
+    }
+}

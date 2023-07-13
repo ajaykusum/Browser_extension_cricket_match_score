@@ -1,0 +1,11 @@
+body {
+    min-width: 300px;
+    background-color: rgb(8, 255, 218);
+}
+p{
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0cap;
+    text-decoration: double;
+    color: rgb(84, 84, 237);
+  }
